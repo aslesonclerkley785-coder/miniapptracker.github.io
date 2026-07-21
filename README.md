@@ -1,2 +1,0 @@
-# miniapptracker.github.io
-miniapptracker
